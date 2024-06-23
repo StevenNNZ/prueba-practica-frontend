@@ -1,27 +1,34 @@
-# PruebaPractica
+<p align="center">
+    <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Klh1l7wkoG6PDPb9A5oCHQ.png" alt="Logo" width=122 height=122>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
+  <h3 align="center">Prueba práctica Frontend</h3>
 
-## Development server
+  <p align="center">
+    Presentada por: <b>Wilson Steven Nuñez Labrador</b>
+    
+  </p>
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Requisitos previos
 
-## Code scaffolding
+Instalaciones requeridas [Node.js](https://nodejs.org/) y [Angular CLI](https://angular.io/cli).
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Para empezar
 
-## Build
+1. **Clona el repositorio**:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+   ```bash
+   git clone https://github.com/StevenNNZ/prueba-practica-frontend.git
+   ```
 
-## Running unit tests
+2. **Instalación dependencias**:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+   ```bash
+   npm install
+   ```
 
-## Running end-to-end tests
+3. **Levantar proyecto en desarrollo**:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+   ```bash
+   ng serve
+   ```
