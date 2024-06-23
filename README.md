@@ -32,3 +32,9 @@ Instalaciones requeridas [Node.js](https://nodejs.org/) y [Angular CLI](https://
    ```bash
    ng serve
    ```
+
+4. **Navegar al siguiente URL**:
+
+   ```bash
+   http://localhost:4200
+   ```
